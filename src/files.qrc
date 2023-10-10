@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>../icon/rc.ico</file>
+    <file>../icon/uni.ico</file>
+    <file>../icon/app/chem.ico</file>
+    <file>../icon/app/dam.ico</file>
+    <file>../icon/app/emer.ico</file>
+    <file>../icon/app/ind.ico</file>
+    <file>../icon/app/ter.ico</file>
+    <file>../icon/app/tmp.ico</file>
+    <file>../icon/app/bs.ico</file>
+    <file>../icon/app/toxi.ico</file>
+    <file>../icon/app/ec.ico</file>
+    <file>../icon/nic.ico</file>
+  </qresource>
+  <qresource prefix="fonts"/>
+</RCC>
